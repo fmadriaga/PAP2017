@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/home/emi/NetBeansProjects/AplicacionDePrueba/src/aplicaciondeprueba/AplicacionDePrueba.java</file>
-            <file>file:/home/emi/NetBeansProjects/AplicacionDePrueba/src/recursos/conf.properties</file>
-            <file>file:/home/emi/NetBeansProjects/AplicacionDePrueba/src/logica/interfaces/IControladorUsuario.java</file>
-            <file>file:/home/emi/NetBeansProjects/AplicacionDePrueba/src/logica/manejadores/ColeccionUsuarios.java</file>
-            <file>file:/home/emi/NetBeansProjects/AplicacionDePrueba/src/logica/Modelo/Usuario.java</file>
-            <file>file:/home/emi/NetBeansProjects/AplicacionDePrueba/src/logica/fabricas/Fabrica.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
